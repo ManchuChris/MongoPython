@@ -1,0 +1,69 @@
+>>> import pymongo
+>>> pymongo.Connection("localhost",27017)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: module 'pymongo' has no attribute 'Connection'
+>>> client = pymongo.MongoClient("localhost",27017)
+>>> db = client.mydb
+>>> db
+Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'mydb')
+>>> db.collection_names()
+['books']
+>>> books = db.books
+>>> dir(books)
+['_BaseObject__codec_options', '_BaseObject__read_concern', '_BaseObject__read_preference', '_BaseObject__write_concern', '_Collection__create', '_Collection__create_index', '_Collection__database', '_Collection__find_and_modify', '_Collection__full_name', '_Collection__name', '_Collection__write_response_codec_options', '__call__', '__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattr__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__iter__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__next__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_aggregate', '_aggregate_one_result', '_command', '_count', '_delete', '_delete_retryable', '_insert', '_insert_one', '_legacy_write', '_read_preference_for', '_socket_for_primary_reads', '_socket_for_reads', '_socket_for_writes', '_update', '_update_retryable', '_write_concern_for', '_write_concern_for_cmd', 'aggregate', 'aggregate_raw_batches', 'bulk_write', 'codec_options', 'count', 'count_documents', 'create_index', 'create_indexes', 'database', 'delete_many', 'delete_one', 'distinct', 'drop', 'drop_index', 'drop_indexes', 'ensure_index', 'estimated_document_count', 'find', 'find_and_modify', 'find_one', 'find_one_and_delete', 'find_one_and_replace', 'find_one_and_update', 'find_raw_batches', 'full_name', 'group', 'index_information', 'initialize_ordered_bulk_op', 'initialize_unordered_bulk_op', 'inline_map_reduce', 'insert', 'insert_many', 'insert_one', 'list_indexes', 'map_reduce', 'name', 'next', 'options', 'parallel_scan', 'read_concern', 'read_preference', 'reindex', 'remove', 'rename', 'replace_one', 'save', 'update', 'update_many', 'update_one', 'watch', 'with_options', 'write_concern']
+>>> books.find_one()
+{'lang': 'python', '_id': ObjectId('5d144974ddc3ad06a60fb622'), 'title': 'from beginner to master', 'author': 'qiwsir'}
+>>> b2 = {"title":"Kris MCS","author":"Kris","lang":"Eng"}
+>>> books.insert(b2)
+ObjectId('5d1451471c74e2b4f457e45a')
+>>> show db
+  File "<stdin>", line 1
+    show db
+          ^
+SyntaxError: invalid syntax
+>>> db
+Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'mydb')
+>>> db.find()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/pymongo/collection.py", line 3352, in __call__
+    self.__name)
+TypeError: 'Collection' object is not callable. If you meant to call the 'find' method on a 'Database' object it is failing because no such method exists.
+>>> db.books.find()
+<pymongo.cursor.Cursor object at 0x104d04240>
+>>> books.find()
+<pymongo.cursor.Cursor object at 0x104d04320>
+>>> books.find_one()
+{'lang': 'python', '_id': ObjectId('5d144974ddc3ad06a60fb622'), 'title': 'from beginner to master', 'author': 'qiwsir'}
+>>> books.find()
+<pymongo.cursor.Cursor object at 0x104d04320>
+>>> books.find({} )
+<pymongo.cursor.Cursor object at 0x104c99f60>
+>>> cursor = collection.find({})
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'collection' is not defined
+>>>     for document in cursor:
+  File "<stdin>", line 1
+    for document in cursor:
+    ^
+IndentationError: unexpected indent
+>>>         print(document)
+  File "<stdin>", line 1
+    print(document)
+    ^
+IndentationError: unexpected indent
+>>> cursor = books.find({})
+>>>     for document in cursor:
+  File "<stdin>", line 1
+    for document in cursor:
+    ^
+IndentationError: unexpected indent
+>>> for document in cursor:
+...         print(document)
+... 
+{'lang': 'python', '_id': ObjectId('5d144974ddc3ad06a60fb622'), 'title': 'from beginner to master', 'author': 'qiwsir'}
+{'lang': 'python', '_id': ObjectId('5d1449f8ddc3ad06a60fb623'), 'title': 'from beginner to master', 'author': 'qiwsir'}
+{'lang': 'Eng', '_id': ObjectId('5d1451471c74e2b4f457e45a'), 'title': 'Kris MCS', 'author': 'Kris'}
+>>> 
