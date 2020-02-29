@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c176d593-9754-4593-b431-0d743f27d4b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y3h1TK4dc1NOU4b4CaTWNHYDiM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kris\Documents\GitHub\MongoPython\bfs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.driver_dijkastra">
+    <configuration name="bfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MongoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\kris\Documents\GitHub\MongoPython\bfs\bfs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="driver_bfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MongoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\kris\Documents\GitHub\MongoPython\bfs\driver_bfs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="driver_dfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MongoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dfs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dfs/driver_dfs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="driver_dijkastra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MongoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bfs_dijkstra" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bfs_dijkstra/driver_dijkastra.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.driver_dijkastra" />
+        <item itemvalue="Python.driver_dfs" />
+        <item itemvalue="Python.driver_bfs" />
+        <item itemvalue="Python.bfs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c176d593-9754-4593-b431-0d743f27d4b7" name="Default Changelist" comment="" />
+      <created>1582176969707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582176969707</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1582863697368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582863697368" />
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom/1920.61.1920.1040/0.0.1920.1040/-1280.61.1280.984@0.0.1920.1040" timestamp="1582179221653" />
+    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1582863697368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582863697368" />
+    <state width="1362" height="266" key="GridCell.Tab.0.center/1920.61.1920.1040/0.0.1920.1040/-1280.61.1280.984@0.0.1920.1040" timestamp="1582179221653" />
+    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1582863697368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582863697368" />
+    <state width="1362" height="266" key="GridCell.Tab.0.left/1920.61.1920.1040/0.0.1920.1040/-1280.61.1280.984@0.0.1920.1040" timestamp="1582179221653" />
+    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1582863697368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582863697368" />
+    <state width="1362" height="266" key="GridCell.Tab.0.right/1920.61.1920.1040/0.0.1920.1040/-1280.61.1280.984@0.0.1920.1040" timestamp="1582179221653" />
+    <state x="471" y="205" key="SettingsEditor" timestamp="1582177027958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="471" y="205" key="SettingsEditor/1920.61.1920.1040/0.0.1920.1040/-1280.61.1280.984@0.0.1920.1040" timestamp="1582177027958" />
+    <state x="666" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1582861719283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="387" key="com.intellij.ide.util.TipDialog/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582260744830" />
+    <state x="666" y="387" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582861719283" />
+  </component>
+</project>
