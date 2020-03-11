@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -32,8 +33,8 @@
       <recent name="C:\Users\kris\Documents\GitHub\MongoPython\bfs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.driver_dijkastra">
-    <configuration name="bfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.AddLinkedList">
+    <configuration name="AddLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MongoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,11 +42,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AddLinkedList" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kris\Documents\GitHub\MongoPython\bfs\bfs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AddLinkedList/AddLinkedList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,7 +55,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="driver_bfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MongoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BTS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kris\Documents\GitHub\MongoPython\bfs\driver_bfs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BTS/BinarySearchTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="driver_dfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="courseSchedule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MongoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dfs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CourseSchedule(207)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dfs/driver_dfs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CourseSchedule(207)/courseSchedule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="driver_dijkastra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="driverSolution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MongoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +105,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bfs_dijkstra" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazonSubstringVowel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bfs_dijkstra/driver_dijkastra.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazonSubstringVowel/driverSolution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jumpingBetweenTrees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MongoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jumpingBetweenTrees" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jumpingBetweenTrees/jumpingBetweenTrees.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,10 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.driver_dijkastra" />
-        <item itemvalue="Python.driver_dfs" />
-        <item itemvalue="Python.driver_bfs" />
-        <item itemvalue="Python.bfs" />
+        <item itemvalue="Python.AddLinkedList" />
+        <item itemvalue="Python.BinarySearchTree" />
+        <item itemvalue="Python.courseSchedule" />
+        <item itemvalue="Python.jumpingBetweenTrees" />
+        <item itemvalue="Python.driverSolution" />
       </list>
     </recent_temporary>
   </component>
@@ -140,34 +163,72 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1582863697368">
+    <state width="1899" height="265" key="GridCell.Tab.0.bottom" timestamp="1583903171852">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582863697368" />
+    <state width="1899" height="265" key="GridCell.Tab.0.bottom/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583903171852" />
+    <state width="1362" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@0.0.1920.1040" timestamp="1583472134598" />
+    <state width="1362" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@1920.61.1920.1040" timestamp="1583472467355" />
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583210067862" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1583389040727" />
     <state width="1362" height="266" key="GridCell.Tab.0.bottom/1920.61.1920.1040/0.0.1920.1040/-1280.61.1280.984@0.0.1920.1040" timestamp="1582179221653" />
-    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1582863697368">
+    <state width="1899" height="265" key="GridCell.Tab.0.center" timestamp="1583903171852">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582863697368" />
+    <state width="1899" height="265" key="GridCell.Tab.0.center/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583903171852" />
+    <state width="1362" height="265" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@0.0.1920.1040" timestamp="1583472134598" />
+    <state width="1362" height="265" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@1920.61.1920.1040" timestamp="1583472467354" />
+    <state width="1362" height="266" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583210067862" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1583389040727" />
     <state width="1362" height="266" key="GridCell.Tab.0.center/1920.61.1920.1040/0.0.1920.1040/-1280.61.1280.984@0.0.1920.1040" timestamp="1582179221653" />
-    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1582863697368">
+    <state width="1899" height="265" key="GridCell.Tab.0.left" timestamp="1583903171852">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582863697368" />
+    <state width="1899" height="265" key="GridCell.Tab.0.left/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583903171852" />
+    <state width="1362" height="265" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@0.0.1920.1040" timestamp="1583472134598" />
+    <state width="1362" height="265" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@1920.61.1920.1040" timestamp="1583472467354" />
+    <state width="1362" height="266" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583210067862" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1583389040727" />
     <state width="1362" height="266" key="GridCell.Tab.0.left/1920.61.1920.1040/0.0.1920.1040/-1280.61.1280.984@0.0.1920.1040" timestamp="1582179221653" />
-    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1582863697368">
+    <state width="1899" height="265" key="GridCell.Tab.0.right" timestamp="1583903171852">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582863697368" />
+    <state width="1899" height="265" key="GridCell.Tab.0.right/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583903171852" />
+    <state width="1362" height="265" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@0.0.1920.1040" timestamp="1583472134598" />
+    <state width="1362" height="265" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@1920.61.1920.1040" timestamp="1583472467354" />
+    <state width="1362" height="266" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583210067862" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1583389040727" />
     <state width="1362" height="266" key="GridCell.Tab.0.right/1920.61.1920.1040/0.0.1920.1040/-1280.61.1280.984@0.0.1920.1040" timestamp="1582179221653" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1583727889617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583727889617" />
+    <state width="1362" height="328" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583209138679" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1583727889617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.center/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583727889617" />
+    <state width="1362" height="328" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583209138679" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1583727889616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.left/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583727889616" />
+    <state width="1362" height="328" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583209138679" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1583727889617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.right/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583727889617" />
+    <state width="1362" height="328" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583209138679" />
     <state x="471" y="205" key="SettingsEditor" timestamp="1582177027958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="471" y="205" key="SettingsEditor/1920.61.1920.1040/0.0.1920.1040/-1280.61.1280.984@0.0.1920.1040" timestamp="1582177027958" />
-    <state x="666" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1582861719283">
+    <state x="666" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1583897068503">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="666" y="387" key="com.intellij.ide.util.TipDialog/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582260744830" />
-    <state x="666" y="387" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582861719283" />
+    <state x="666" y="387" key="com.intellij.ide.util.TipDialog/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583897068503" />
+    <state x="2586" y="448" key="com.intellij.ide.util.TipDialog/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@1920.61.1920.1040" timestamp="1583705836104" />
+    <state x="666" y="387" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@0.0.1920.1040" timestamp="1583471671933" />
+    <state x="666" y="387" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583380584491" />
   </component>
 </project>
