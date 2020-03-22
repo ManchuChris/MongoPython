@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c176d593-9754-4593-b431-0d743f27d4b7" name="Default Changelist" comment="" />
+    <list default="true" id="c176d593-9754-4593-b431-0d743f27d4b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BTS/FindCloseValue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_set_dic_ex/playListSetDic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS/BinarySearchTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/BTS/BinarySearchTree.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -33,7 +39,7 @@
       <recent name="C:\Users\kris\Documents\GitHub\MongoPython\bfs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.AddLinkedList">
+  <component name="RunManager" selected="Python.FindCloseValue">
     <configuration name="AddLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MongoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -47,6 +53,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AddLinkedList/AddLinkedList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BalancedTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MongoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/List_set_dic_ex/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BTS" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BTS/BalancedTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,6 +103,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="FindCloseValue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MongoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/List_set_dic_ex/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BTS" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BTS/FindCloseValue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="courseSchedule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MongoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,55 +145,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="driverSolution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MongoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazonSubstringVowel" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazonSubstringVowel/driverSolution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="jumpingBetweenTrees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MongoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jumpingBetweenTrees" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jumpingBetweenTrees/jumpingBetweenTrees.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FindCloseValue" />
+        <item itemvalue="Python.BalancedTree" />
         <item itemvalue="Python.AddLinkedList" />
         <item itemvalue="Python.BinarySearchTree" />
         <item itemvalue="Python.courseSchedule" />
-        <item itemvalue="Python.jumpingBetweenTrees" />
-        <item itemvalue="Python.driverSolution" />
       </list>
     </recent_temporary>
   </component>
@@ -163,61 +169,89 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="265" key="GridCell.Tab.0.bottom" timestamp="1583903171852">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="349" y="32" key="#BTDEx" timestamp="1584897613729">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="349" y="32" key="#BTDEx/0.23.1280.777@0.23.1280.777" timestamp="1584897613729" />
+    <state x="349" y="44" key="#BalancedTree" timestamp="1584897660806">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="349" y="44" key="#BalancedTree/0.23.1280.777@0.23.1280.777" timestamp="1584897660806" />
+    <state x="349" y="32" key="#FindCloseValue" timestamp="1584900853056">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="349" y="32" key="#FindCloseValue/0.23.1280.777@0.23.1280.777" timestamp="1584900853056" />
+    <state x="384" y="227" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584888701476">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="384" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777@0.23.1280.777" timestamp="1584888701476" />
+    <state width="715" height="438" key="DebuggerActiveHint" timestamp="1584903987901">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="715" height="438" key="DebuggerActiveHint/0.23.1280.777@0.23.1280.777" timestamp="1584903987901" />
+    <state width="1259" height="197" key="GridCell.Tab.0.bottom" timestamp="1584905618808">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1899" height="265" key="GridCell.Tab.0.bottom/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583903171852" />
     <state width="1362" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@0.0.1920.1040" timestamp="1583472134598" />
     <state width="1362" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@1920.61.1920.1040" timestamp="1583472467355" />
+    <state width="1259" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1584905618808" />
     <state width="1362" height="266" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583210067862" />
     <state width="1899" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1583389040727" />
     <state width="1362" height="266" key="GridCell.Tab.0.bottom/1920.61.1920.1040/0.0.1920.1040/-1280.61.1280.984@0.0.1920.1040" timestamp="1582179221653" />
-    <state width="1899" height="265" key="GridCell.Tab.0.center" timestamp="1583903171852">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1259" height="197" key="GridCell.Tab.0.center" timestamp="1584905618807">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1899" height="265" key="GridCell.Tab.0.center/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583903171852" />
     <state width="1362" height="265" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@0.0.1920.1040" timestamp="1583472134598" />
     <state width="1362" height="265" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@1920.61.1920.1040" timestamp="1583472467354" />
+    <state width="1259" height="197" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1584905618807" />
     <state width="1362" height="266" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583210067862" />
     <state width="1899" height="281" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1583389040727" />
     <state width="1362" height="266" key="GridCell.Tab.0.center/1920.61.1920.1040/0.0.1920.1040/-1280.61.1280.984@0.0.1920.1040" timestamp="1582179221653" />
-    <state width="1899" height="265" key="GridCell.Tab.0.left" timestamp="1583903171852">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1259" height="197" key="GridCell.Tab.0.left" timestamp="1584905618806">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1899" height="265" key="GridCell.Tab.0.left/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583903171852" />
     <state width="1362" height="265" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@0.0.1920.1040" timestamp="1583472134598" />
     <state width="1362" height="265" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@1920.61.1920.1040" timestamp="1583472467354" />
+    <state width="1259" height="197" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1584905618806" />
     <state width="1362" height="266" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583210067862" />
     <state width="1899" height="281" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1583389040727" />
     <state width="1362" height="266" key="GridCell.Tab.0.left/1920.61.1920.1040/0.0.1920.1040/-1280.61.1280.984@0.0.1920.1040" timestamp="1582179221653" />
-    <state width="1899" height="265" key="GridCell.Tab.0.right" timestamp="1583903171852">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1259" height="197" key="GridCell.Tab.0.right" timestamp="1584905618807">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1899" height="265" key="GridCell.Tab.0.right/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583903171852" />
     <state width="1362" height="265" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@0.0.1920.1040" timestamp="1583472134598" />
     <state width="1362" height="265" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.61.1280.984/1920.61.1920.1040@1920.61.1920.1040" timestamp="1583472467354" />
+    <state width="1259" height="197" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1584905618807" />
     <state width="1362" height="266" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583210067862" />
     <state width="1899" height="281" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1583389040727" />
     <state width="1362" height="266" key="GridCell.Tab.0.right/1920.61.1920.1040/0.0.1920.1040/-1280.61.1280.984@0.0.1920.1040" timestamp="1582179221653" />
-    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1583727889617">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1259" height="168" key="GridCell.Tab.1.bottom" timestamp="1584904154447">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1899" height="347" key="GridCell.Tab.1.bottom/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583727889617" />
+    <state width="1259" height="168" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1584904154447" />
     <state width="1362" height="328" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583209138679" />
-    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1583727889617">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1259" height="168" key="GridCell.Tab.1.center" timestamp="1584904154446">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1899" height="347" key="GridCell.Tab.1.center/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583727889617" />
+    <state width="1259" height="168" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1584904154446" />
     <state width="1362" height="328" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583209138679" />
-    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1583727889616">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1259" height="168" key="GridCell.Tab.1.left" timestamp="1584904154445">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1899" height="347" key="GridCell.Tab.1.left/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583727889616" />
+    <state width="1259" height="168" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1584904154445" />
     <state width="1362" height="328" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583209138679" />
-    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1583727889617">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1259" height="168" key="GridCell.Tab.1.right" timestamp="1584904154446">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1899" height="347" key="GridCell.Tab.1.right/-1280.61.1280.984/1920.61.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583727889617" />
+    <state width="1259" height="168" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1584904154446" />
     <state width="1362" height="328" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583209138679" />
     <state x="471" y="205" key="SettingsEditor" timestamp="1582177027958">
       <screen x="0" y="0" width="1920" height="1040" />

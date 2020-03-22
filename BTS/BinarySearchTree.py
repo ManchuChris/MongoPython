@@ -1,4 +1,4 @@
-# _function is private function.
+z# _function is private function.
 class Node:
     def __init__(self, value=None):
         self.value = value
