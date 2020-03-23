@@ -28,6 +28,5 @@ def printNode(balancedNodes):
     printNode(balancedNodes.right)
 
 
-# listTest = [1, 2, 3, 4, 5, 6, 7]
-# result = balancedTreeTodo([1, 2, 3, 4, 5, 6, 7])
-# printNode(result)
+result = balancedTreeTodo([1, 2, 3, 4, 5, 6, 7])
+printNode(result)
